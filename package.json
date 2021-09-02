@@ -1,0 +1,27 @@
+{
+  "name": "space-finder-backend",
+  "version": "1.0.0",
+  "description": "Serverless Backend code for https://www.udemy.com/course/aws-typescript-cdk-serverless-react course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipebruce/space-finder-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipebruce/space-finder-backend/issues"
+  },
+  "homepage": "https://github.com/felipebruce/space-finder-backend#readme",
+  "devDependencies": {
+    "aws-cdk": "1.121.0",
+    "aws-cdk-lib": "2.0.0-rc.20",
+    "constructs": "3.3.140",
+    "ts-node": "10.2.1",
+    "typescript": "4.4.2"
+  }
+}
